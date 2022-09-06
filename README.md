@@ -1,4 +1,4 @@
-Oi, meu nome é Admar, em processo de migração de carreira! 
+Oi, meu nome é Admar, meu perfil está em construção e estou em processo de migração de carreira! 
 <div align="center">
   <a href="https://github.com/Adezaks">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Admar&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
